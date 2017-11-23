@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HBD</string>
+    <string name="search_hint">Type contact name</string>
+    <string name="search">Search</string>
+</resources>
